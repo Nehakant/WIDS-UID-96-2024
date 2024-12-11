@@ -9,13 +9,13 @@ Here are some tutorials—go through them and complete your Week 1 assignment.
 You don't need to cover the entire video, just focus on these relevant topics Loops,if-else statements,NumPy, Matplotlib, Function and methods, Classes and Objects, and Modules and Packages.
 
 
-Refer to this link for information about Numpy(either go through video or read the material)
+**Refer to this link for information about Numpy**(either go through video or read the material)
 
 reading material:- https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/
 
 video:- https://youtu.be/Rbh1rieb3zc?si=fHGkRr2riOucjjjw
 
-For Matplotlib
+**For Matplotlib**
 Refer to this link(Watch only up to 44 minutes):- https://youtu.be/OZOOLe2imFo?si=loIKPXuB_s0MQRHH
 
 **INSTALLATION AND SETUP**
