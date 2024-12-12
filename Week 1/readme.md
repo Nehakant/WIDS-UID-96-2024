@@ -1,4 +1,4 @@
-**WEEK 1 BASICS OF PYHTON**
+**WEEK 1 BASICS OF PYTHON**
 
 Let's start our project by learning the building blocks of Python, such as classes, functions, methods, libraries, and more. These concepts are highly useful. If you are new to this language, don't worry; Python is one of the easiest languages to learn and can be picked up in a short amount of time. 
 
