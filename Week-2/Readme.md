@@ -14,4 +14,3 @@ You do not need to enroll for the course, you can audit all the content for free
 
 
 On pressing the 'Enroll for Free’ button, you will see the popup given below. Click on the "Audit" hyperlink near the bottom, below the continue button.
-
